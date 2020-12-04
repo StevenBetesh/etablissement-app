@@ -1,1 +1,2 @@
-# ismin-2020-project
+# Ismin-2020-project - Mobile App
+By Ines Ben Amor and Steven Betesh
